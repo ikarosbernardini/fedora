@@ -54,3 +54,4 @@ set(Lista) # tar borta alla dubbletter och läser enbart in unika värden. bra f
 def addera(tal1, tal2):
     pass 
 
+# hej ikaros
